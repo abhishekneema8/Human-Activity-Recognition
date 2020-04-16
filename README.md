@@ -2,7 +2,7 @@
 
 Nowadays, a modern smartphone comes equipped with variety of sensors. The data collected by these sensors is valuable for better aligning the applications on the phone with user's lifestyle. In this project, we have focused on using data collected from motion sensors to build a model which identifies type of activity being performed by the user.
 
-You can downlaod the dataset from https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones. or otherwise the dataset has been zipped here only
+You can downlaod the dataset from https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones or otherwise the dataset has been zipped here only.
 
 Dataset.zip contains the required data. 
 
