@@ -2,3 +2,4 @@ Human_Activity_Recognition.docx
 Images/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+**/*.ipynb_checkpoints/
