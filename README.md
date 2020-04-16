@@ -12,5 +12,5 @@ You can downlaod the dataset from https://archive.ics.uci.edu/ml/datasets/human+
 
 - HAR_DEEP_Learning.ipynb contains the part where  the deep learning models applied to dataset.
 
-I have also written a blog on this problem and it is [available here] (https://medium.com/@abhishekneema8/human-activity-recognition-1baf180f8eaa). 
+I have also written a blog regarding this problem on [medium](https://medium.com/@abhishekneema8/human-activity-recognition-1baf180f8eaa). 
 
