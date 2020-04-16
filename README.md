@@ -10,5 +10,5 @@ Nowadays, a modern smartphone comes equipped with variety of sensors. The data c
 
 - HAR_DEEP_Learning.ipynb contains the part where  the deep learning models applied to dataset.
 
-I have also written a blog regarding this problem on medium which is  [###***available here***###](https://medium.com/@abhishekneema8/human-activity-recognition-1baf180f8eaa). 
+I have also written a blog regarding this problem on medium which is [***available here***](https://medium.com/@abhishekneema8/human-activity-recognition-1baf180f8eaa). 
 
